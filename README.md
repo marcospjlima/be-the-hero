@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="DevRadar" title="#delicinha" src=".github/bethehero.svg" width="200px" />
+    <img alt="BeTheHero" src=".github/bethehero.svg" width="200px" />
 </h1>
 
 <h4 align="center">
@@ -58,4 +58,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 
 ---
 
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
+Feito com base no padrão da Rocketseat!
